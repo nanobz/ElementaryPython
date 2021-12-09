@@ -2,7 +2,7 @@
   <div align="center">
     <img src="https://i.imgur.com/DKsNFnL.png" width="64">
   </div>
-  <h1 align="center">Elementary Python</h1>
+  <h1 align="center">Elementary Python Forked</h1>
   <div align="center">Python application template for elementary OS. </div>
 </div>
 
